@@ -105,4 +105,5 @@ revoke usage on database.* from 'user'@'%';
 
 ```
 grant LOCK TABLES,select on database.* to 'user'@'%';
-```# MySQL-Database
+```
+
