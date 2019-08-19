@@ -3,8 +3,9 @@
 
 ## MySQL Migration Scripts
 
-[shell Scripts]]()
+[backup script](#https://raw.githubusercontent.com/akhilrajmailbox/MySQL-Database/master/scripts/Bakup_MySQL.sh)
 
+[import script](#https://raw.githubusercontent.com/akhilrajmailbox/MySQL-Database/master/scripts/Import_MySQL.sh)
 
 
 ## basic queries
