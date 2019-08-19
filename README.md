@@ -1,4 +1,4 @@
-# databases
+# MySQL Database Server
 
 
 ## MySQL Migration Scripts
@@ -6,6 +6,11 @@
 [backup script](https://raw.githubusercontent.com/akhilrajmailbox/MySQL-Database/master/scripts/Bakup_MySQL.sh)
 
 [import script](https://raw.githubusercontent.com/akhilrajmailbox/MySQL-Database/master/scripts/Import_MySQL.sh)
+
+
+## Cluster Configuration
+
+[Cluster Configuration](https://github.com/akhilrajmailbox/MySQL-Database/tree/master/mysql-cluster)
 
 
 ## basic queries
